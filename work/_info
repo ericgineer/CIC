@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/eric/Documents/Verilog_stuff/AMdemod/IP/CIC2
+vCIC
+!s110 1441591799
+!i10b 1
+!s100 VITNS?Dl<M=SRYc1@Ri^D2
+IE_UKdM1`5c2^jeDGGVJW>3
+Z0 V`JN@9S9cnhjKRR_L]QIcM3
+Z1 d/home/eric/GitHub/CIC
+w1441591769
+8/home/eric/GitHub/CIC/CIC.v
+F/home/eric/GitHub/CIC/CIC.v
+L0 4
+Z2 OV;L;10.3d;59
+r1
+!s85 0
+31
+!s108 1441591799.233482
+!s107 /home/eric/GitHub/CIC/CIC.v|
+!s90 -reportprogress|300|-work|work|/home/eric/GitHub/CIC/CIC.v|
+!i113 1
+Z3 o-work work
+n@c@i@c
+vCIC_tb
+!s110 1441592393
+!i10b 1
+!s100 Y05OHz8U>PKYAQmLf@SW80
+IKOJa69C]<m9a<HYIDIW_U3
+R0
+R1
+w1441592388
+8/home/eric/GitHub/CIC/CIC_tb.v
+F/home/eric/GitHub/CIC/CIC_tb.v
+L0 3
+R2
+r1
+!s85 0
+31
+!s108 1441592393.026388
+!s107 /home/eric/GitHub/CIC/CIC_tb.v|
+!s90 -reportprogress|300|-work|work|/home/eric/GitHub/CIC/CIC_tb.v|
+!i113 1
+R3
+n@c@i@c_tb

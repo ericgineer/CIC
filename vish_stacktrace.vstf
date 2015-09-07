@@ -1,0 +1,37 @@
+# Current time Thu Aug 27 22:28:52 2015
+# ModelSim Stack Trace
+# Program = vish
+# Id = "10.3d"
+# Version = "2014.10"
+# Date = "Oct  7 2014"
+# Platform = linuxpe
+# 0    0x0839653e: 'wlfiScan + 0x38e' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 1    0x082ade40: 'wlfiGetDataRange + 0x1a0' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 2    0x082946ec: '<unknown (@0x82946ec)>'
+# 3    0x08218c9a: 'ts_wave_update + 0x49a' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 4    0x08288394: '<unknown (@0x8288394)>'
+# 5    0x0855bc9b: 'TclServiceIdle + 0x3b' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 6    0x0853b9dc: 'Tcl_DoOneEvent + 0x17c' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 7    0x0848e35a: '<unknown (@0x848e35a)>'
+# 8    0x084bc47d: '<unknown (@0x84bc47d)>'
+# 9    0x084bdf36: '<unknown (@0x84bdf36)>'
+# 10   0x084be525: 'Tcl_EvalEx + 0x35' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 11   0x084be98c: 'TclEvalObjEx + 0x3fc' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 12   0x084c59f2: '<unknown (@0x84c59f2)>'
+# 13   0x084bc47d: '<unknown (@0x84bc47d)>'
+# 14   0x0850509a: '<unknown (@0x850509a)>'
+# 15   0x0854ca85: 'TclObjInterpProcCore + 0x115' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 16   0x0854d022: 'TclObjInterpProc + 0x62' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 17   0x084bc47d: '<unknown (@0x84bc47d)>'
+# 18   0x0850509a: '<unknown (@0x850509a)>'
+# 19   0x0854ca85: 'TclObjInterpProcCore + 0x115' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 20   0x0854d022: 'TclObjInterpProc + 0x62' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 21   0x084bc47d: '<unknown (@0x84bc47d)>'
+# 22   0x0850509a: '<unknown (@0x850509a)>'
+# 23   0x0850da3c: '<unknown (@0x850da3c)>'
+# 24   0x084be5fc: 'TclEvalObjEx + 0x6c' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 25   0x084bea96: 'Tcl_EvalObjEx + 0x36' in '/home/eric/altera/15.0/modelsim_ase/linuxaloem/vish'
+# 26   0xf7fceeac: 'Itcl_EvalMemberCode + 0x3cc' in '/home/eric/altera/15.0/modelsim_ase/bin/../linux/itcl3.4/libitcl3.4.so'
+# 27   0x0af3ac63: '<unknown (@0xaf3ac63)>'
+# 28   0x0aeeaff3: '<unknown (@0xaeeaff3)>'
+# 29   0x6565724f: '<unknown (@0x6565724f)>'
